@@ -1,0 +1,26 @@
+<SpawnPoints>
+  <Spawn WorldPosX="90" WorldPosY="66" Creature="Pawn" />
+  <Spawn WorldPosX="66" WorldPosY="30" Creature="Rook" />
+  <Spawn WorldPosX="61" WorldPosY="45" Creature="Castle" />
+  <Spawn WorldPosX="61" WorldPosY="32" Creature="Pawn" />
+  <Spawn WorldPosX="60" WorldPosY="61" Creature="Pawn" />
+  <Spawn WorldPosX="56" WorldPosY="65" Creature="Castle" />
+  <Spawn WorldPosX="56" WorldPosY="6" Creature="Rook" />
+  <Spawn WorldPosX="48" WorldPosY="25" Creature="Rook" />
+  <Spawn WorldPosX="43" WorldPosY="19" Creature="Bumbles" />
+  <Spawn WorldPosX="40" WorldPosY="40" Creature="Castle" />
+  <Spawn WorldPosX="39" WorldPosY="74" Creature="Rook" />
+  <Spawn WorldPosX="30" WorldPosY="67" Creature="Rook" />
+  <Spawn WorldPosX="27" WorldPosY="47" Creature="Rook" />
+  <Spawn WorldPosX="26" WorldPosY="35" Creature="Bumbles" />
+  <Spawn WorldPosX="24" WorldPosY="6" Creature="Bumbles" />
+  <Spawn WorldPosX="22" WorldPosY="55" Creature="Bumbles" />
+  <Spawn WorldPosX="17" WorldPosY="25" Creature="Bumbles" />
+  <Spawn WorldPosX="16" WorldPosY="7" Creature="Pawn" />
+  <Spawn WorldPosX="14" WorldPosY="36" Creature="Pawn" />
+  <Spawn WorldPosX="13" WorldPosY="7" Creature="Castle" />
+  <Spawn WorldPosX="12" WorldPosY="76" Creature="Castle" />
+  <Spawn WorldPosX="10" WorldPosY="39" Creature="Bumbles" />
+  <Spawn WorldPosX="9" WorldPosY="82" Creature="Rook" />
+  <Spawn WorldPosX="1" WorldPosY="1" Creature="Player" />
+</SpawnPoints>

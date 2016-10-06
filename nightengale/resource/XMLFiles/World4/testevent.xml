@@ -1,0 +1,5 @@
+<Events>
+  <Event Name="kao" Count="1" WorldPosX0="168" WorldPosY0="18" />
+  <Event Name="Save" Count="12" WorldPosX0="75" WorldPosY0="19" WorldPosX1="75" WorldPosY1="20" WorldPosX2="75" WorldPosY2="21" WorldPosX3="75" WorldPosY3="22" WorldPosX4="76" WorldPosY4="19" WorldPosX5="76" WorldPosY5="22" WorldPosX6="77" WorldPosY6="19" WorldPosX7="77" WorldPosY7="22" WorldPosX8="78" WorldPosY8="19" WorldPosX9="78" WorldPosY9="20" WorldPosX10="78" WorldPosY10="21" WorldPosX11="78" WorldPosY11="22" />
+  <Event Name="SaveEmit" Count="4" WorldPosX0="76" WorldPosY0="20" WorldPosX1="76" WorldPosY1="21" WorldPosX2="77" WorldPosY2="20" WorldPosX3="77" WorldPosY3="21" />
+</Events>

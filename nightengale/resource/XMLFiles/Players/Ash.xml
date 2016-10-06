@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnimationFile>
+  <Animations AnimationCount="4" />
+  <Object ObjectName="C:\Users\Jake\Desktop\Playerz.png">
+    <Animation FrameCount="4" AnimName="South">
+      <Frame Event="" DrawLeft="31" DrawTop="10" DrawRight="58" DrawBottom="49" CollisionLeft="34" CollisionTop="14" CollisionRight="53" CollisionBottom="47" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="44" AnchorTop="44" Duration="0.25" />
+      <Frame Event="LStep" DrawLeft="59" DrawTop="8" DrawRight="89" DrawBottom="49" CollisionLeft="63" CollisionTop="12" CollisionRight="83" CollisionBottom="47" EventLeft="74" EventTop="40" EventRight="81" EventBottom="47" AnchorLeft="73" AnchorTop="44" Duration="0.25" />
+      <Frame Event="" DrawLeft="30" DrawTop="10" DrawRight="58" DrawBottom="49" CollisionLeft="34" CollisionTop="13" CollisionRight="53" CollisionBottom="47" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="44" AnchorTop="44" Duration="0.25" />
+      <Frame Event="RStep" DrawLeft="90" DrawTop="9" DrawRight="120" DrawBottom="50" CollisionLeft="94" CollisionTop="15" CollisionRight="114" CollisionBottom="47" EventLeft="105" EventTop="40" EventRight="113" EventBottom="46" AnchorLeft="103" AnchorTop="44" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="4" AnimName="West">
+      <Frame Event="" DrawLeft="120" DrawTop="9" DrawRight="151" DrawBottom="51" CollisionLeft="127" CollisionTop="15" CollisionRight="146" CollisionBottom="47" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="135" AnchorTop="44" Duration="0.25" />
+      <Frame Event="RStep" DrawLeft="151" DrawTop="8" DrawRight="181" DrawBottom="53" CollisionLeft="157" CollisionTop="14" CollisionRight="175" CollisionBottom="45" EventLeft="160" EventTop="37" EventRight="171" EventBottom="44" AnchorLeft="165" AnchorTop="42" Duration="0.25" />
+      <Frame Event="" DrawLeft="120" DrawTop="7" DrawRight="150" DrawBottom="50" CollisionLeft="129" CollisionTop="14" CollisionRight="145" CollisionBottom="48" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="135" AnchorTop="44" Duration="0.25" />
+      <Frame Event="LStep" DrawLeft="183" DrawTop="10" DrawRight="212" DrawBottom="48" CollisionLeft="186" CollisionTop="14" CollisionRight="207" CollisionBottom="45" EventLeft="185" EventTop="36" EventRight="195" EventBottom="45" AnchorLeft="198" AnchorTop="42" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="4" AnimName="North">
+      <Frame Event="" DrawLeft="216" DrawTop="12" DrawRight="246" DrawBottom="50" CollisionLeft="220" CollisionTop="14" CollisionRight="241" CollisionBottom="48" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="230" AnchorTop="44" Duration="0.25" />
+      <Frame Event="LStep" DrawLeft="246" DrawTop="10" DrawRight="275" DrawBottom="48" CollisionLeft="251" CollisionTop="14" CollisionRight="269" CollisionBottom="47" EventLeft="249" EventTop="36" EventRight="259" EventBottom="46" AnchorLeft="260" AnchorTop="44" Duration="0.25" />
+      <Frame Event="" DrawLeft="216" DrawTop="10" DrawRight="245" DrawBottom="50" CollisionLeft="220" CollisionTop="14" CollisionRight="240" CollisionBottom="48" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="230" AnchorTop="44" Duration="0.25" />
+      <Frame Event="RStep" DrawLeft="276" DrawTop="8" DrawRight="304" DrawBottom="49" CollisionLeft="282" CollisionTop="13" CollisionRight="299" CollisionBottom="47" EventLeft="290" EventTop="37" EventRight="298" EventBottom="47" AnchorLeft="290" AnchorTop="44" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="4" AnimName="East">
+      <Frame Event="" DrawLeft="306" DrawTop="9" DrawRight="335" DrawBottom="49" CollisionLeft="311" CollisionTop="13" CollisionRight="326" CollisionBottom="48" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="316" AnchorTop="44" Duration="0.25" />
+      <Frame Event="RStep" DrawLeft="337" DrawTop="12" DrawRight="366" DrawBottom="49" CollisionLeft="341" CollisionTop="16" CollisionRight="360" CollisionBottom="48" EventLeft="347" EventTop="38" EventRight="360" EventBottom="45" AnchorLeft="346" AnchorTop="44" Duration="0.25" />
+      <Frame Event="" DrawLeft="305" DrawTop="8" DrawRight="337" DrawBottom="50" CollisionLeft="309" CollisionTop="14" CollisionRight="327" CollisionBottom="47" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="318" AnchorTop="44" Duration="0.25" />
+      <Frame Event="LStep" DrawLeft="368" DrawTop="12" DrawRight="396" DrawBottom="50" CollisionLeft="368" CollisionTop="15" CollisionRight="391" CollisionBottom="48" EventLeft="370" EventTop="43" EventRight="379" EventBottom="48" AnchorLeft="379" AnchorTop="44" Duration="0.25" />
+    </Animation>
+  </Object>
+</AnimationFile>

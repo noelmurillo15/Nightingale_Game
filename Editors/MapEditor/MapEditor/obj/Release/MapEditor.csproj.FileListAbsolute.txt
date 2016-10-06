@@ -1,0 +1,9 @@
+C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\MapEditor\MapEditor\bin\Release\MapEditor.exe.config
+C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\MapEditor\MapEditor\bin\Release\MapEditor.exe
+C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\MapEditor\MapEditor\bin\Release\MapEditor.pdb
+C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\MapEditor\MapEditor\obj\Release\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\MapEditor\MapEditor\obj\Release\MapEditor.MapEditor.resources
+C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\MapEditor\MapEditor\obj\Release\MapEditor.Properties.Resources.resources
+C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\MapEditor\MapEditor\obj\Release\MapEditor.csproj.GenerateResource.Cache
+C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\MapEditor\MapEditor\obj\Release\MapEditor.exe
+C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\MapEditor\MapEditor\obj\Release\MapEditor.pdb

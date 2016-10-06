@@ -1,0 +1,5 @@
+<Events>
+  <Event Name="QueensLanding" Count="9" WorldPosX0="164" WorldPosY0="12" WorldPosX1="164" WorldPosY1="13" WorldPosX2="164" WorldPosY2="14" WorldPosX3="165" WorldPosY3="12" WorldPosX4="165" WorldPosY4="13" WorldPosX5="165" WorldPosY5="14" WorldPosX6="166" WorldPosY6="12" WorldPosX7="166" WorldPosY7="13" WorldPosX8="166" WorldPosY8="14" />
+  <Event Name="Save" Count="12" WorldPosX0="16" WorldPosY0="77" WorldPosX1="16" WorldPosY1="78" WorldPosX2="16" WorldPosY2="79" WorldPosX3="16" WorldPosY3="80" WorldPosX4="17" WorldPosY4="77" WorldPosX5="17" WorldPosY5="80" WorldPosX6="18" WorldPosY6="77" WorldPosX7="18" WorldPosY7="80" WorldPosX8="19" WorldPosY8="77" WorldPosX9="19" WorldPosY9="78" WorldPosX10="19" WorldPosY10="79" WorldPosX11="19" WorldPosY11="80" />
+  <Event Name="SaveEmit" Count="4" WorldPosX0="17" WorldPosY0="78" WorldPosX1="17" WorldPosY1="79" WorldPosX2="18" WorldPosY2="78" WorldPosX3="18" WorldPosY3="79" />
+</Events>

@@ -1,0 +1,25 @@
+<SpawnPoints>
+  <Spawn WorldPosX="136" WorldPosY="8" Creature="Knight" />
+  <Spawn WorldPosX="130" WorldPosY="3" Creature="Passant" />
+  <Spawn WorldPosX="126" WorldPosY="21" Creature="Passant" />
+  <Spawn WorldPosX="114" WorldPosY="19" Creature="Knight" />
+  <Spawn WorldPosX="112" WorldPosY="36" Creature="Passant" />
+  <Spawn WorldPosX="110" WorldPosY="3" Creature="Knight" />
+  <Spawn WorldPosX="89" WorldPosY="12" Creature="Passant" />
+  <Spawn WorldPosX="88" WorldPosY="25" Creature="Passant" />
+  <Spawn WorldPosX="88" WorldPosY="21" Creature="Passant" />
+  <Spawn WorldPosX="87" WorldPosY="8" Creature="Passant" />
+  <Spawn WorldPosX="70" WorldPosY="2" Creature="Passant" />
+  <Spawn WorldPosX="89" WorldPosY="9" Creature="Pawn" />
+  <Spawn WorldPosX="71" WorldPosY="6" Creature="Rook" />
+  <Spawn WorldPosX="50" WorldPosY="14" Creature="Passant" />
+  <Spawn WorldPosX="46" WorldPosY="23" Creature="Passant" />
+  <Spawn WorldPosX="43" WorldPosY="14" Creature="Passant" />
+  <Spawn WorldPosX="41" WorldPosY="24" Creature="Passant" />
+  <Spawn WorldPosX="38" WorldPosY="12" Creature="Passant" />
+  <Spawn WorldPosX="34" WorldPosY="5" Creature="Passant" />
+  <Spawn WorldPosX="27" WorldPosY="20" Creature="Passant" />
+  <Spawn WorldPosX="19" WorldPosY="29" Creature="Knight" />
+  <Spawn WorldPosX="14" WorldPosY="14" Creature="Knight" />
+  <Spawn WorldPosX="1" WorldPosY="18" Creature="Player" />
+</SpawnPoints>

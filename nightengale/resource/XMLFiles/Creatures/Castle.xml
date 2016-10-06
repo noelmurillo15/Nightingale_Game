@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnimationFile>
+  <Animations AnimationCount="1" />
+  <Object ObjectName="C:\Users\fullsail\Desktop\Nightengale 1.10.15\nightengale\Game Project\resource\graphics\Creatures\Castle.png">
+    <Animation FrameCount="2" AnimName="Idle">
+      <Frame Event="N/A" DrawLeft="192" DrawTop="35" DrawRight="233" DrawBottom="70" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="249" AnchorTop="65" Duration="0.75" />
+      <Frame Event="N/A" DrawLeft="234" DrawTop="39" DrawRight="267" DrawBottom="67" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="249" AnchorTop="65" Duration="0.75" />
+    </Animation>
+  </Object>
+</AnimationFile>

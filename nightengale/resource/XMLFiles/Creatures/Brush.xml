@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnimationFile>
+  <Animations AnimationCount="3" />
+  <Object ObjectName="C:\Users\Jake\Desktop\Bush.png">
+    <Animation FrameCount="3" AnimName="Bush">
+      <Frame Event="N/A" DrawLeft="5" DrawTop="4" DrawRight="37" DrawBottom="33" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="21" AnchorTop="27" Duration="0.1" />
+      <Frame Event="N/A" DrawLeft="41" DrawTop="3" DrawRight="73" DrawBottom="35" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="57" AnchorTop="26" Duration="0.1" />
+      <Frame Event="N/A" DrawLeft="75" DrawTop="5" DrawRight="110" DrawBottom="35" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="91" AnchorTop="27" Duration="0.1" />
+    </Animation>
+    <Animation FrameCount="1" AnimName="Tree">
+      <Frame Event="N/A" DrawLeft="112" DrawTop="1" DrawRight="175" DrawBottom="64" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="145" AnchorTop="49" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="1" AnimName="Trees">
+      <Frame Event="N/A" DrawLeft="177" DrawTop="2" DrawRight="303" DrawBottom="129" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="239" AnchorTop="62" Duration="0.25" />
+    </Animation>
+  </Object>
+</AnimationFile>

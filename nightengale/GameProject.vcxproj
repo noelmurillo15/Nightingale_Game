@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{F471A53C-84A8-4364-943F-4A0961280132}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>GameProject</RootNamespace>
+    <ProjectName>Nightengale</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="SGD Project Properties.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="SGD Project Properties.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <LibraryPath>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v7.1A\Lib\x64;E:\_Microsoft SDK\Lib\x86</LibraryPath>
+    <IncludePath>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v7.1A\Include;E:\_Microsoft SDK\Include</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>E:\_Microsoft SDK\Include</IncludePath>
+    <LibraryPath>E:\_Microsoft SDK\Lib\x86</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <BrowseInformation>true</BrowseInformation>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Bscmake>
+      <PreserveSbr>true</PreserveSbr>
+    </Bscmake>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="SGD Wrappers\SGD_AudioManager.cpp" />
+    <ClCompile Include="SGD Wrappers\SGD_Event.cpp" />
+    <ClCompile Include="SGD Wrappers\SGD_EventManager.cpp" />
+    <ClCompile Include="SGD Wrappers\SGD_Geometry.cpp" />
+    <ClCompile Include="SGD Wrappers\SGD_GraphicsManager.cpp" />
+    <ClCompile Include="SGD Wrappers\SGD_InputManager.cpp" />
+    <ClCompile Include="SGD Wrappers\SGD_Listener.cpp" />
+    <ClCompile Include="SGD Wrappers\SGD_Message.cpp" />
+    <ClCompile Include="SGD Wrappers\SGD_MessageManager.cpp" />
+    <ClCompile Include="source\AddDialogMsg.cpp" />
+    <ClCompile Include="source\Analyzer.cpp" />
+    <ClCompile Include="source\AnchorPointAnimation.cpp" />
+    <ClCompile Include="source\AnimationSystem.cpp" />
+    <ClCompile Include="source\Bishop.cpp" />
+    <ClCompile Include="source\BitmapFont.cpp" />
+    <ClCompile Include="source\Bumbles.cpp" />
+    <ClCompile Include="source\BumblesBaitMessage.cpp" />
+    <ClCompile Include="source\Camera.cpp" />
+    <ClCompile Include="source\Castle.cpp" />
+    <ClCompile Include="source\CellAnimation.cpp" />
+    <ClCompile Include="source\ChangeHearMessage.cpp" />
+    <ClCompile Include="source\CharacterSelect.cpp" />
+    <ClCompile Include="source\ControllerState.cpp" />
+    <ClCompile Include="source\Controls.cpp" />
+    <ClCompile Include="source\CreatureFactory.cpp" />
+    <ClCompile Include="source\CreatureLogMessage.cpp" />
+    <ClCompile Include="source\CreatureLogs.cpp" />
+    <ClCompile Include="source\CreatureProfile.cpp" />
+    <ClCompile Include="source\CreditsState.cpp" />
+    <ClCompile Include="source\DataWereHouse.cpp" />
+    <ClCompile Include="source\DestroyEntityMessage.cpp" />
+    <ClCompile Include="source\DialogSystem.cpp" />
+    <ClCompile Include="source\DirectorAI.cpp" />
+    <ClCompile Include="source\Entity.cpp" />
+    <ClCompile Include="source\EntityManager.cpp" />
+    <ClCompile Include="source\Formation.cpp" />
+    <ClCompile Include="source\Game.cpp" />
+    <ClCompile Include="source\GameplayState.cpp" />
+    <ClCompile Include="source\HowtoplayState.cpp" />
+    <ClCompile Include="source\HUD.cpp" />
+    <ClCompile Include="source\Items.cpp" />
+    <ClCompile Include="source\Kao.cpp" />
+    <ClCompile Include="source\King.cpp" />
+    <ClCompile Include="source\Knight.cpp" />
+    <ClCompile Include="source\Layer.cpp" />
+    <ClCompile Include="source\LoadMenuState.cpp" />
+    <ClCompile Include="source\MainMenuState.cpp" />
+    <ClCompile Include="source\OptionsState.cpp" />
+    <ClCompile Include="source\PackComposite.cpp" />
+    <ClCompile Include="source\Particle.cpp" />
+    <ClCompile Include="source\ParticleEmitter.cpp" />
+    <ClCompile Include="source\ParticleManager.cpp" />
+    <ClCompile Include="source\Passant.cpp" />
+    <ClCompile Include="source\PassantTurnMessage.cpp" />
+    <ClCompile Include="source\PauseGameMsg.cpp" />
+    <ClCompile Include="source\Pawn.cpp" />
+    <ClCompile Include="source\Player.cpp" />
+    <ClCompile Include="source\Prancer.cpp" />
+    <ClCompile Include="source\Queen.cpp" />
+    <ClCompile Include="source\Rook.cpp" />
+    <ClCompile Include="source\SaveSlots.cpp" />
+    <ClCompile Include="source\Senses.cpp" />
+    <ClCompile Include="source\SetPlayerTargetMessage.cpp" />
+    <ClCompile Include="source\StaticObject.cpp" />
+    <ClCompile Include="source\Tile.cpp" />
+    <ClCompile Include="source\TileEngine.cpp" />
+    <ClCompile Include="source\tinystr.cpp" />
+    <ClCompile Include="source\tinyxml.cpp" />
+    <ClCompile Include="source\tinyxmlerror.cpp" />
+    <ClCompile Include="source\tinyxmlparser.cpp" />
+    <ClCompile Include="source\WinMain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="SGD Wrappers\SGD_AudioManager.h" />
+    <ClInclude Include="SGD Wrappers\SGD_Color.h" />
+    <ClInclude Include="SGD Wrappers\SGD_Declarations.h" />
+    <ClInclude Include="SGD Wrappers\SGD_Event.h" />
+    <ClInclude Include="SGD Wrappers\SGD_EventManager.h" />
+    <ClInclude Include="SGD Wrappers\SGD_Geometry.h" />
+    <ClInclude Include="SGD Wrappers\SGD_GraphicsManager.h" />
+    <ClInclude Include="SGD Wrappers\SGD_Handle.h" />
+    <ClInclude Include="SGD Wrappers\SGD_HandleManager.h" />
+    <ClInclude Include="SGD Wrappers\SGD_HandleManager.hpp" />
+    <ClInclude Include="SGD Wrappers\SGD_InputManager.h" />
+    <ClInclude Include="SGD Wrappers\SGD_Key.h" />
+    <ClInclude Include="SGD Wrappers\SGD_Listener.h" />
+    <ClInclude Include="SGD Wrappers\SGD_Message.h" />
+    <ClInclude Include="SGD Wrappers\SGD_MessageManager.h" />
+    <ClInclude Include="SGD Wrappers\SGD_String.h" />
+    <ClInclude Include="source\AddDialogMsg.h" />
+    <ClInclude Include="source\Analyzer.h" />
+    <ClInclude Include="source\AnchorPointAnimation.h" />
+    <ClInclude Include="source\AnimationSystem.h" />
+    <ClInclude Include="source\Bishop.h" />
+    <ClInclude Include="source\BitmapFont.h" />
+    <ClInclude Include="source\Bumbles.h" />
+    <ClInclude Include="source\BumblesBaitMessage.h" />
+    <ClInclude Include="source\Camera.h" />
+    <ClInclude Include="source\Castle.h" />
+    <ClInclude Include="source\CellAnimation.h" />
+    <ClInclude Include="source\ChangeHearMessage.h" />
+    <ClInclude Include="source\CharacterSelect.h" />
+    <ClInclude Include="source\ControllerState.h" />
+    <ClInclude Include="source\Controls.h" />
+    <ClInclude Include="source\CreatureFactory.h" />
+    <ClInclude Include="source\CreatureLogMessage.h" />
+    <ClInclude Include="source\CreatureLogs.h" />
+    <ClInclude Include="source\CreatureProfile.h" />
+    <ClInclude Include="source\CreditsState.h" />
+    <ClInclude Include="source\DataWereHouse.h" />
+    <ClInclude Include="source\DestroyEntityMessage.h" />
+    <ClInclude Include="source\DialogSystem.h" />
+    <ClInclude Include="source\DirectorAI.h" />
+    <ClInclude Include="source\Entity.h" />
+    <ClInclude Include="source\EntityManager.h" />
+    <ClInclude Include="source\Formation.h" />
+    <ClInclude Include="source\Game.h" />
+    <ClInclude Include="source\GameplayState.h" />
+    <ClInclude Include="source\HowtoplayState.h" />
+    <ClInclude Include="source\HUD.h" />
+    <ClInclude Include="source\IEntity.h" />
+    <ClInclude Include="source\IGameState.h" />
+    <ClInclude Include="source\Items.h" />
+    <ClInclude Include="source\Kao.h" />
+    <ClInclude Include="source\King.h" />
+    <ClInclude Include="source\Knight.h" />
+    <ClInclude Include="source\Layer.h" />
+    <ClInclude Include="source\LoadMenuState.h" />
+    <ClInclude Include="source\MainMenuState.h" />
+    <ClInclude Include="source\MessageID.h" />
+    <ClInclude Include="source\OptionsState.h" />
+    <ClInclude Include="source\PackComposite.h" />
+    <ClInclude Include="source\Particle.h" />
+    <ClInclude Include="source\ParticleEmitter.h" />
+    <ClInclude Include="source\ParticleManager.h" />
+    <ClInclude Include="source\Passant.h" />
+    <ClInclude Include="source\PassantTurnMessage.h" />
+    <ClInclude Include="source\PauseGameMsg.h" />
+    <ClInclude Include="source\Pawn.h" />
+    <ClInclude Include="source\Player.h" />
+    <ClInclude Include="source\Prancer.h" />
+    <ClInclude Include="source\Queen.h" />
+    <ClInclude Include="source\Rook.h" />
+    <ClInclude Include="source\SaveSlots.h" />
+    <ClInclude Include="source\Senses.h" />
+    <ClInclude Include="source\SetPlayerTargetMessage.h" />
+    <ClInclude Include="source\StaticObject.h" />
+    <ClInclude Include="source\Tile.h" />
+    <ClInclude Include="source\TileEngine.h" />
+    <ClInclude Include="source\tinystr.h" />
+    <ClInclude Include="source\tinyxml.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="NightengaleIcon.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resource\graphics\Nightingale.ico" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

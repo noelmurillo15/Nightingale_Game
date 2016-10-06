@@ -1,0 +1,9 @@
+<SpawnPoints>
+  <Spawn WorldPosX="5" WorldPosY="11" Creature="Pawn" />
+  <Spawn WorldPosX="20" WorldPosY="10" Creature="Pawn" />
+  <Spawn WorldPosX="40" WorldPosY="12" Creature="Pawn" />
+   <Spawn WorldPosX="5" WorldPosY="5" Creature="Castle" />
+  <Spawn WorldPosX="62" WorldPosY="11" Creature="Pawn" />
+  <Spawn WorldPosX="88" WorldPosY="7" Creature="Pawn" />
+  <Spawn WorldPosX="2" WorldPosY="1" Creature="Player" />
+</SpawnPoints>

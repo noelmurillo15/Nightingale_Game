@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnimationFile>
+  <Animations AnimationCount="16" />
+  <Object ObjectName="C:\Users\fullsail\Desktop\Working\nightingale-sgp\nightengale\Game Project\resource\graphics\Creatures\KnightSheet.png">
+    <Animation FrameCount="2" AnimName="South">
+      <Frame Event="N/A" DrawLeft="202" DrawTop="27" DrawRight="240" DrawBottom="54" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="221" AnchorTop="48" Duration="0.35" />
+      <Frame Event="N/A" DrawLeft="262" DrawTop="21" DrawRight="303" DrawBottom="59" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="285" AnchorTop="48" Duration="0.35" />
+    </Animation>
+    <Animation FrameCount="2" AnimName="North">
+      <Frame Event="N/A" DrawLeft="200" DrawTop="60" DrawRight="241" DrawBottom="96" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="220" AnchorTop="84" Duration="0.35" />
+      <Frame Event="N/A" DrawLeft="262" DrawTop="57" DrawRight="306" DrawBottom="93" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="284" AnchorTop="82" Duration="0.35" />
+    </Animation>
+    <Animation FrameCount="2" AnimName="West">
+      <Frame Event="N/A" DrawLeft="268" DrawTop="96" DrawRight="311" DrawBottom="124" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="291" AnchorTop="117" Duration="0.35" />
+      <Frame Event="" DrawLeft="231" DrawTop="94" DrawRight="267" DrawBottom="123" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="252" AnchorTop="118" Duration="0.2" />
+    </Animation>
+    <Animation FrameCount="2" AnimName="East">
+      <Frame Event="N/A" DrawLeft="270" DrawTop="125" DrawRight="310" DrawBottom="153" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="288" AnchorTop="147" Duration="0.35" />
+      <Frame Event="" DrawLeft="231" DrawTop="126" DrawRight="269" DrawBottom="159" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="251" AnchorTop="147" Duration="0.2" />
+    </Animation>
+    <Animation FrameCount="2" AnimName="SouthWest">
+      <Frame Event="" DrawLeft="194" DrawTop="159" DrawRight="231" DrawBottom="191" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="212" AnchorTop="181" Duration="0.25" />
+      <Frame Event="N/A" DrawLeft="267" DrawTop="155" DrawRight="306" DrawBottom="187" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="288" AnchorTop="177" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="2" AnimName="NorthWest">
+      <Frame Event="N/A" DrawLeft="192" DrawTop="226" DrawRight="236" DrawBottom="262" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="212" AnchorTop="252" Duration="0.25" />
+      <Frame Event="N/A" DrawLeft="269" DrawTop="223" DrawRight="315" DrawBottom="263" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="289" AnchorTop="251" Duration="0.5" />
+    </Animation>
+    <Animation FrameCount="2" AnimName="NorthEast">
+      <Frame Event="N/A" DrawLeft="192" DrawTop="262" DrawRight="235" DrawBottom="302" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="213" AnchorTop="287" Duration="0.25" />
+      <Frame Event="N/A" DrawLeft="266" DrawTop="261" DrawRight="312" DrawBottom="299" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="290" AnchorTop="287" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="2" AnimName="SouthEast">
+      <Frame Event="N/A" DrawLeft="192" DrawTop="193" DrawRight="236" DrawBottom="223" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="214" AnchorTop="218" Duration="0.25" />
+      <Frame Event="N/A" DrawLeft="263" DrawTop="189" DrawRight="312" DrawBottom="221" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="290" AnchorTop="214" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="1" AnimName="IdleEast">
+      <Frame Event="N/A" DrawLeft="76" DrawTop="144" DrawRight="113" DrawBottom="179" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="95" AnchorTop="172" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="1" AnimName="IdleWest">
+      <Frame Event="N/A" DrawLeft="74" DrawTop="108" DrawRight="114" DrawBottom="143" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="95" AnchorTop="134" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="1" AnimName="IdleSouth">
+      <Frame Event="N/A" DrawLeft="84" DrawTop="36" DrawRight="119" DrawBottom="71" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="103" AnchorTop="65" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="1" AnimName="IdleNorth">
+      <Frame Event="N/A" DrawLeft="89" DrawTop="75" DrawRight="116" DrawBottom="106" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="103" AnchorTop="100" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="1" AnimName="IdleNorthWest">
+      <Frame Event="N/A" DrawLeft="85" DrawTop="251" DrawRight="117" DrawBottom="287" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="101" AnchorTop="278" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="1" AnimName="IdleNorthEast">
+      <Frame Event="N/A" DrawLeft="83" DrawTop="287" DrawRight="119" DrawBottom="322" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="98" AnchorTop="315" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="1" AnimName="IdleSouthWest">
+      <Frame Event="N/A" DrawLeft="76" DrawTop="180" DrawRight="113" DrawBottom="215" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="93" AnchorTop="205" Duration="0.25" />
+    </Animation>
+    <Animation FrameCount="1" AnimName="IdleSouthEast">
+      <Frame Event="N/A" DrawLeft="80" DrawTop="216" DrawRight="114" DrawBottom="250" CollisionLeft="-1" CollisionTop="-1" CollisionRight="0" CollisionBottom="0" EventLeft="-1" EventTop="-1" EventRight="0" EventBottom="0" AnchorLeft="97" AnchorTop="241" Duration="0.25" />
+    </Animation>
+  </Object>
+</AnimationFile>

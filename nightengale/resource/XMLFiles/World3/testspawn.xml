@@ -1,0 +1,26 @@
+<SpawnPoints>
+  <Spawn WorldPosX="174" WorldPosY="9" Creature="Queen" />
+  <Spawn WorldPosX="164" WorldPosY="65" Creature="Bishop" />
+  <Spawn WorldPosX="164" WorldPosY="14" Creature="Pawn" />
+  <Spawn WorldPosX="160" WorldPosY="33" Creature="Bishop" />
+  <Spawn WorldPosX="159" WorldPosY="56" Creature="Rook" />
+  <Spawn WorldPosX="150" WorldPosY="84" Creature="Rook" />
+  <Spawn WorldPosX="126" WorldPosY="38" Creature="Rook" />
+  <Spawn WorldPosX="116" WorldPosY="12" Creature="Rook" />
+  <Spawn WorldPosX="115" WorldPosY="27" Creature="Rook" />
+  <Spawn WorldPosX="107" WorldPosY="1" Creature="Rook" />
+  <Spawn WorldPosX="96" WorldPosY="70" Creature="Pawn" />
+  <Spawn WorldPosX="93" WorldPosY="87" Creature="Rook" />
+  <Spawn WorldPosX="81" WorldPosY="62" Creature="Bishop" />
+  <Spawn WorldPosX="81" WorldPosY="13" Creature="Rook" />
+  <Spawn WorldPosX="80" WorldPosY="35" Creature="Rook" />
+  <Spawn WorldPosX="74" WorldPosY="54" Creature="Pawn" />
+  <Spawn WorldPosX="69" WorldPosY="10" Creature="Pawn" />
+  <Spawn WorldPosX="27" WorldPosY="70" Creature="Bishop" />
+  <Spawn WorldPosX="20" WorldPosY="30" Creature="Rook" />
+  <Spawn WorldPosX="15" WorldPosY="38" Creature="Rook" />
+  <Spawn WorldPosX="8" WorldPosY="29" Creature="Rook" />
+  <Spawn WorldPosX="5" WorldPosY="83" Creature="Rook" />
+  <Spawn WorldPosX="2" WorldPosY="76" Creature="Bishop" />
+  <Spawn WorldPosX="1" WorldPosY="2" Creature="Player" />
+</SpawnPoints>

@@ -1,0 +1,19 @@
+<SaveSlot3>
+    <Environment World="1" AshLife="1" BrockLife="1" JennyLife="1" ToddLife="1" ElapsedTime="200" />
+    <Player Name="Brock" PositionX="5380" PositionY="481" Health="95" Repellents="3" Baits="3" Saves="0" />
+    <Animal CreatureCount="13">
+        <Creature Type="11" PositionX="2215" PositionY="2549" ProfileCount="0" />
+        <Creature Type="9" PositionX="2343" PositionY="870" ProfileCount="0" />
+        <Creature Type="9" PositionX="2136" PositionY="73" ProfileCount="0" />
+        <Creature Type="9" PositionX="3959" PositionY="2001" ProfileCount="0" />
+        <Creature Type="9" PositionX="470" PositionY="910" ProfileCount="0" />
+        <Creature Type="9" PositionX="1489" PositionY="1631" ProfileCount="0" />
+        <Creature Type="9" PositionX="747" PositionY="839" ProfileCount="0" />
+        <Creature Type="9" PositionX="1875" PositionY="2572" ProfileCount="0" />
+        <Creature Type="9" PositionX="2250" PositionY="182" ProfileCount="0" />
+        <Creature Type="9" PositionX="2599" PositionY="385" ProfileCount="0" />
+        <Creature Type="9" PositionX="2098" PositionY="2225" ProfileCount="0" />
+        <Creature Type="12" PositionX="384" PositionY="3552" ProfileCount="0" />
+        <Creature Type="12" PositionX="1982" PositionY="3396" ProfileCount="0" />
+    </Animal>
+</SaveSlot3>

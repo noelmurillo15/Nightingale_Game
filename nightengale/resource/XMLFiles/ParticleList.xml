@@ -1,0 +1,6 @@
+<ParticleManager_Info>
+  <Texture_Name Name="ParticleImage.png" />
+  <Emit_values maxnumparticles="430" shape="0" emitx="44" emity="400" emitwidth="1" emitheight="1" emitlifespan="100" emitlooping="1" emitspawnrate="0.55" />
+  <particle_values maxlifespan="5" minlifespan="3" startrotation="1" rotationrateofchange="1" startvelx="0" startvely="10" changevel="1" width="10" height="10" sizerateofchange="0" />
+  <particle_color_values startalpha="255" startred="255" startgreen="255" startblue="255" endalpha="255" endred="128" endgreen="128" endblue="255" />
+</ParticleManager_Info>

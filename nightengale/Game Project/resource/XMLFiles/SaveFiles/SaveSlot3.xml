@@ -1,0 +1,16 @@
+<SaveSlot3>
+    <Environment Map="1" ProLife="1" WildLife="1" BLife="1" SomeLife="1" />
+    <Player Name="Ash" PositionX="64" PositionY="64" Repellents="3" Baits="4" Saves="0" />
+    <Animal CreatureCount="10">
+        <Creature Type="8" PositionX="1177" PositionY="1177" ProfileCount="0" />
+        <Creature Type="1" PositionX="2848" PositionY="3584" ProfileCount="0" />
+        <Creature Type="5" PositionX="5756" PositionY="7" ProfileCount="0" />
+        <Creature Type="10" PositionX="1218" PositionY="2740" ProfileCount="0" />
+        <Creature Type="11" PositionX="1920" PositionY="2688" ProfileCount="0" />
+        <Creature Type="9" PositionX="1151" PositionY="544" ProfileCount="0" />
+        <Creature Type="3" PositionX="5522" PositionY="3579" ProfileCount="0" />
+        <Creature Type="4" PositionX="96" PositionY="2688" ProfileCount="0" />
+        <Creature Type="2" PositionX="5226" PositionY="1414" ProfileCount="0" />
+        <Creature Type="6" PositionX="98" PositionY="98" ProfileCount="0" />
+    </Animal>
+</SaveSlot3>
