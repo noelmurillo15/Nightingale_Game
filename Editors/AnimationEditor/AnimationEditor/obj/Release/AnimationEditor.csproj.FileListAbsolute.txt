@@ -1,9 +1,0 @@
-C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\AnimationEditor\AnimationEditor\bin\Release\AnimationEditor.exe.config
-C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\AnimationEditor\AnimationEditor\bin\Release\AnimationEditor.exe
-C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\AnimationEditor\AnimationEditor\bin\Release\AnimationEditor.pdb
-C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\AnimationEditor\AnimationEditor\obj\Release\AnimationEditor.csprojResolveAssemblyReference.cache
-C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\AnimationEditor\AnimationEditor\obj\Release\AnimationEditor.Form1.resources
-C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\AnimationEditor\AnimationEditor\obj\Release\AnimationEditor.Properties.Resources.resources
-C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\AnimationEditor\AnimationEditor\obj\Release\AnimationEditor.csproj.GenerateResource.Cache
-C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\AnimationEditor\AnimationEditor\obj\Release\AnimationEditor.exe
-C:\Users\Allan\Desktop\Working Folder\nightingale-sgp\Editors\AnimationEditor\AnimationEditor\obj\Release\AnimationEditor.pdb
